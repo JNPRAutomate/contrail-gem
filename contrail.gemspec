@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["jdeatherage@juniper.net"]
   spec.summary       = 'REST API binding for OpenContrail and Contrail'
   spec.description   = 'REST API binding for OpenContrail and Contrail'
-  spec.homepage      = 'https://github.com/JNPRAutomate/'
+  spec.homepage      = 'https://github.com/JNPRAutomate/contrail-gem'
   spec.license       = 'Apache-2.0'
 
   spec.files         = `git ls-files -z`.split("\x0")
